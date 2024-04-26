@@ -1,3 +1,9 @@
 
 ¡
-java:S1171&"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8…ÇÔï1J$f95a2584-872d-497f-a2fd-6ecc299167f6
+java:S1171L"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ßöÓñ1J$949bfda8-4d78-4a7a-86d2-0615dc97121d
+‰
+java:S1128"ARemove this unused import 'io.gatling.javaapi.core.CoreDsl.exec'.(ûØ¦ÿÿÿÿÿ8Ö­Óñ1J$4a26fd92-c9f8-4851-94f8-4f71ab07a6a4
+p
+java:S1068I"-Remove this unused "scenario1" private field.(Ÿà–8…Ã®Óñ1J$ca7d1f06-90a3-4b4f-871d-b59dee8ee051
+p
+java:S1068J"-Remove this unused "scenario2" private field.(ç„ùà8«Ù®Óñ1J$d4c63208-660e-45e6-950c-c62576277355

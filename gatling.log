@@ -1,0 +1,102 @@
+13:44:35.311 [WARN ] i.g.c.s.e.ElCompiler$ - You're still using the deprecated ${} pattern for Gatling EL. Please use the #{} pattern instead.
+13:44:36.269 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:37.263 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:37.763 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:38.263 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:38.593 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:38.928 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:39.263 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:39.510 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:39.761 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:40.011 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:40.261 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:40.460 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:40.661 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:40.861 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:41.061 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:41.262 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:41.426 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:41.595 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:41.762 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:41.928 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:42.094 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:42.262 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:42.403 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:42.547 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:42.689 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:42.832 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:42.976 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:43.119 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:43.262 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:43.386 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:43.511 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:43.637 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:43.762 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:43.886 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:44.012 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:44.137 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:44.262 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:44.371 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:44.482 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:44.594 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:44.705 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:44.815 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:44.926 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:45.038 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:45.149 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:45.261 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:45.361 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:45.461 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:45.561 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:45.662 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:45.762 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:45.861 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:45.962 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:46.061 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:44:46.162 [ERROR] i.g.h.a.HttpRequestAction - '1-a.로그인 시나리오' failed to execute: No attribute named 'randomFeeder' is defined
+13:48:19.628 [ERROR] i.g.a.Gatling$ - Run crashed
+java.lang.ClassCastException: class java.util.Spliterators$1Adapter cannot be cast to class java.util.function.Supplier (java.util.Spliterators$1Adapter and java.util.function.Supplier are in module java.base of loader 'bootstrap')
+	at LoginPerformance.<init>(LoginPerformance.java:27)
+	... 18 common frames omitted
+Wrapped by: java.lang.reflect.InvocationTargetException: null
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at io.gatling.app.SimulationClass$Java.params(SimulationClass.scala:35)
+	at io.gatling.app.Runner.load(Runner.scala:72)
+	at io.gatling.app.Runner.run(Runner.scala:57)
+	at io.gatling.app.Gatling$.start(Gatling.scala:92)
+	at io.gatling.app.Gatling$.fromArgs(Gatling.scala:54)
+	at io.gatling.app.Gatling$.main(Gatling.scala:42)
+	at io.gatling.app.Gatling.main(Gatling.scala)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at io.gatling.plugin.util.ForkMain.runMain(ForkMain.java:67)
+	at io.gatling.plugin.util.ForkMain.main(ForkMain.java:35)
+20:12:37.538 [ERROR] i.g.a.Gatling$ - Run crashed
+java.lang.ClassCastException: class java.util.Spliterators$1Adapter cannot be cast to class java.util.function.Supplier (java.util.Spliterators$1Adapter and java.util.function.Supplier are in module java.base of loader 'bootstrap')
+	at LoginPerformance.<init>(LoginPerformance.java:27)
+	... 18 common frames omitted
+Wrapped by: java.lang.reflect.InvocationTargetException: null
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at io.gatling.app.SimulationClass$Java.params(SimulationClass.scala:35)
+	at io.gatling.app.Runner.load(Runner.scala:72)
+	at io.gatling.app.Runner.run(Runner.scala:57)
+	at io.gatling.app.Gatling$.start(Gatling.scala:92)
+	at io.gatling.app.Gatling$.fromArgs(Gatling.scala:54)
+	at io.gatling.app.Gatling$.main(Gatling.scala:42)
+	at io.gatling.app.Gatling.main(Gatling.scala)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at io.gatling.plugin.util.ForkMain.runMain(ForkMain.java:67)
+	at io.gatling.plugin.util.ForkMain.main(ForkMain.java:35)
