@@ -1,9 +1,13 @@
 
 ¡
-java:S1171L"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ßöÓñ1J$949bfda8-4d78-4a7a-86d2-0615dc97121d
+java:S1171Q"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8²ò„šü1J$501543d6-49b8-41b6-aae7-b17681e3ca4f
+
+java:S1128"GRemove this unused import 'io.gatling.javaapi.core.CoreDsl.bodyString'.(Ùéˆüüÿÿÿÿ8³ò„šü1J$9fa2b416-4e61-44da-864d-ec7b0af219b3
 ‰
-java:S1128"ARemove this unused import 'io.gatling.javaapi.core.CoreDsl.exec'.(ûØ¦ÿÿÿÿÿ8Ö­Óñ1J$4a26fd92-c9f8-4851-94f8-4f71ab07a6a4
+java:S1128"ARemove this unused import 'io.gatling.javaapi.core.CoreDsl.exec'.(ûØ¦ÿÿÿÿÿ8³ò„šü1J$0b6d8600-1fe4-4691-9dcf-f6c4474b72d0
+†
+java:S1128"CRemove this unused import 'io.gatling.javaapi.http.HttpDsl.header'.(Óˆó®8³ò„šü1J$7c8a1ade-15b7-4fac-a348-98b01a574eea
 p
-java:S1068I"-Remove this unused "scenario1" private field.(Ÿà–8…Ã®Óñ1J$ca7d1f06-90a3-4b4f-871d-b59dee8ee051
+java:S1068N"-Remove this unused "scenario1" private field.(Ÿà–8´ò„šü1J$45a275cb-60b7-4e04-a05b-5cbba3015b5c
 p
-java:S1068J"-Remove this unused "scenario2" private field.(ç„ùà8«Ù®Óñ1J$d4c63208-660e-45e6-950c-c62576277355
+java:S1068P"-Remove this unused "scenario3" private field.(Ùşò8´ò„šü1J$dc668578-b10c-4432-9d6f-e56a0fed14f9

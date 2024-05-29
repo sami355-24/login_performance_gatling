@@ -13,8 +13,6 @@ O
 ,user-files/simulations/loginperformance.java,0/9/09b4f3c56d93c6e29d79eea8231427526e848580
 \
 ,user-files/simulations/LoginPerformance.java,5/7/57d397c7a1de551a0de5268a4a33e02f5314989a
-X
-(user-files/simulations/ResponseBody.java,7/1/718e0237682ff60de6d5534c764e3bfc7aa7fe4d
 A
 conf/gatling.conf,b/6/b69c6e14f242ffcb93c726f08cc5e93c6555276b
 F

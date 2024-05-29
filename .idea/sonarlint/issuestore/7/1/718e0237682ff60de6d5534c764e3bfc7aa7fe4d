@@ -1,16 +1,0 @@
-
-
-java:S1128"GRemove this unused import 'io.gatling.javaapi.core.CoreDsl.StringBody'.(şîÔèúÿÿÿÿ8×¥ö‚ğ1J$9018915f-937c-4707-9168-13e1826a4195
-‰
-java:S1128"ARemove this unused import 'io.gatling.javaapi.core.CoreDsl.exec'.(ûØ¦ÿÿÿÿÿ8×¥ö‚ğ1J$c92352a6-cc35-4912-b77a-613315be11a3
-
-java:S1128	"FRemove this unused import 'io.gatling.javaapi.core.CoreDsl.rampUsers'.(âûıûÿÿÿÿ8×¥ö‚ğ1J$6d318593-74f9-4007-90a8-deca4ff3477c
-f
-java:S1128
-"Remove this duplicated import.(¤êÇıÿÿÿÿ8ÑÖô‚ğ1J$127255cf-7a1d-4789-a9ba-748041aa4303
-a
-java:S1128"Remove this duplicated import.(ÎŞ÷ 8ÑÖô‚ğ1J$ed505b79-1780-4097-b138-1db81ecf5618
-f
-java:S1128"Remove this duplicated import.(òØÂ´ÿÿÿÿÿ8ÑÖô‚ğ1J$a028fe0f-5344-416b-9e27-5c46ff2a2377
-u
-java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8Ø¥ö‚ğ1J$44aa2274-20e1-454e-ad7f-2498e7f9da13

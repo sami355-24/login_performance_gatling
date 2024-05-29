@@ -1,8 +1,11 @@
 import static io.gatling.javaapi.core.CoreDsl.StringBody;
+import static io.gatling.javaapi.core.CoreDsl.bodyString;
 import static io.gatling.javaapi.core.CoreDsl.exec;
 import static io.gatling.javaapi.core.CoreDsl.feed;
 import static io.gatling.javaapi.core.CoreDsl.incrementUsersPerSec;
+import static io.gatling.javaapi.core.CoreDsl.jsonPath;
 import static io.gatling.javaapi.core.CoreDsl.scenario;
+import static io.gatling.javaapi.http.HttpDsl.header;
 import static io.gatling.javaapi.http.HttpDsl.http;
 import static io.gatling.javaapi.http.HttpDsl.status;
 
@@ -55,12 +58,14 @@ public class LoginPerformance extends Simulation {
                                                   "password": "1234"
                                                   }
                         """))
-                .check(status().is(200));
+                .check(status().is(200))
+                .check(jsonPath("$.accessToken").saveAs("authToken"));
     }
 
     private static HttpRequestActionBuilder fakeBusinessLogic(String name) {
         return http(name)
                 .get("/load/fake")
+                .header("Authorization", "Bearer #{authToken}")
                 .check(status().is(200));
     }
 
@@ -76,25 +81,25 @@ public class LoginPerformance extends Simulation {
     {
         setUp(
 //                scenario1.injectOpen(
-//                        incrementUsersPerSec(1)
+//                        incrementUsersPerSec(50)
 //                                .times(30) // 테스트가 끝날 때까지 사용자 수를 지속적으로 증가시킴
 //                                .eachLevelLasting(1) // 각 사용자 수를 1초 동안 유지
 //                                .startingFrom(1) // 사용자 수를 1명부터 시작
-//                ),
+//                )
 //
-//                scenario2.injectOpen(
-//                        incrementUsersPerSec(1)
-//                                .times(30) // 테스트가 끝날 때까지 사용자 수를 지속적으로 증가시킴
-//                                .eachLevelLasting(1) // 각 사용자 수를 1초 동안 유지
-//                                .startingFrom(1) // 사용자 수를 1명부터 시작
-//                ),
-
-                scenario3.injectOpen(
-                        incrementUsersPerSec(1)
-                                .times(10) // 테스트가 끝날 때까지 사용자 수를 지속적으로 증가시킴
+                scenario2.injectOpen(
+                        incrementUsersPerSec(45)
+                                .times(30) // 테스트가 끝날 때까지 사용자 수를 지속적으로 증가시킴
                                 .eachLevelLasting(1) // 각 사용자 수를 1초 동안 유지
                                 .startingFrom(1) // 사용자 수를 1명부터 시작
                 )
+
+//                scenario3.injectOpen(
+//                        incrementUsersPerSec(1)
+//                                .times(30) // 테스트가 끝날 때까지 사용자 수를 지속적으로 증가시킴
+//                                .eachLevelLasting(1) // 각 사용자 수를 1초 동안 유지
+//                                .startingFrom(1) // 사용자 수를 1명부터 시작
+//                )
         ).protocols(httpProtocol);
     }
 
